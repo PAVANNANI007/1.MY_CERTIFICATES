@@ -1,3 +1,4 @@
+[wd.pdf](https://github.com/PAVANNANI007/1.MY_CERTIFICATES/files/6518602/wd.pdf)
 
 My certificates in web development in various topics 
 1.HTML
@@ -7,4 +8,4 @@ My certificates in web development in various topics
 5.MONGODB
 6.MY INTERNSHALA INTERNSHIP CERTIFICATE
 
-[wd.pdf](https://github.com/PAVANNANI007/1.MY_CERTIFICATES/files/6518595/wd.pdf)
+
